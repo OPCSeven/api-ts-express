@@ -20,10 +20,15 @@ api-ts-express/
 │   ├── database/
 │   │   └── connection.ts
 │   ├── routes/
+│   │   └──userRoutes.ts
 │   ├── controllers/
+│   │   └── userControllers.ts
 │   ├── models/
+│   │   └──userModels.ts
 │   └── config/
+├── .gitignore
 ├── .env
+├── package-lock.json
 ├── package.json
 ├── tsconfig.json
 └── README.md
