@@ -12,6 +12,7 @@ npm run dev
 ```
 
 ## Estrutura do Projeto
+```
 api-ts-express/
 ├── node_modules/
 ├── src/
@@ -26,6 +27,7 @@ api-ts-express/
 ├── package.json
 ├── tsconfig.json
 └── README.md
+```
 
 ## Endpoints: (Ainda por arrumar)
 
