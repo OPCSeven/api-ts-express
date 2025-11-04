@@ -9,6 +9,7 @@ Projeto base de CRUD usando:
 ```bash
 npm install
 npm run dev
+```
 
 ## Estrutura do Projeto
 api-ts-express/
